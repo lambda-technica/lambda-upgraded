@@ -1,1 +1,1 @@
-# system-check
+# system-checks
